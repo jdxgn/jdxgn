@@ -16,7 +16,7 @@ That being said, I love writing code. Ever since I wrote my first program, I hav
 
 - 🛠 &nbsp; I’m currently working with Python, Java, Golang, AWS, GCP etc.
 - 🚀 &nbsp; I’m currently exploring Rust, Security Engineering etc.
-- 👯 I’m looking to collaborate on open source projects, organising meetups and building a community.
+- 👯 &nbsp; I’m looking to collaborate on open source projects, organising meetups and building a community.
 - 🏃🏻‍♂️ &nbsp; Avid Runner and always up to take on new races and challenges.
+- 🍕 &nbsp; Interested in Meetups & Tech Events and building new communities.
 - 💬 &nbsp; Ask me anything [here](https://github.com/jdxgn/jdxgn/issues)! I am happy to help.
-- 🍕 &nbsp; Meetups & Tech Events and building new communities.
